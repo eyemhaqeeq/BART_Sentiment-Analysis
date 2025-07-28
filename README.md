@@ -1,5 +1,4 @@
-# BART Sentiment Analysis - Binary Classification
-
+# BART Sentiment Analysis LLMs
 ## Project Overview
 This project implements a BART-based sentiment analysis model for binary classification of product reviews into positive or negative categories. The model was trained on Amazon product reviews, specifically excluding neutral 3-star reviews to focus on clear positive/negative sentiment distinction.
 
